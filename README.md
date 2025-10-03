@@ -14,17 +14,20 @@ This project is part of a Cybersecurity Internship Task aimed at understanding w
 
 ## iii] Password Categories :
 
-# Simple Passwords : Easy to remember but weak (ex : password).
+# Simple Passwords : 
+Easy to remember but weak (ex : password).
 
 
 <img width="1904" height="941" alt="Image" src="https://github.com/user-attachments/assets/26edcbf6-c68b-4c33-b460-e5961d31f1bd" />
 
-# Moderate Passwords : More secure by combining upper and lowercase letters and numbers (ex : JohnDoe95).
+# Moderate Passwords : 
+More secure by combining upper and lowercase letters and numbers (ex : JohnDoe95).
 
 
 <img width="1901" height="944" alt="Image" src="https://github.com/user-attachments/assets/6046ff4a-791b-4dba-93b1-c0a4eb89926f" />
 
-# Strong Passwords : Complex passwords using mixed character types and symbols (ex : W@t3rF@ll!92$Xy).
+# Strong Passwords : 
+Complex passwords using mixed character types and symbols (ex : W@t3rF@ll!92$Xy).
 
 
 <img width="1902" height="943" alt="Image" src="https://github.com/user-attachments/assets/40ad7ae4-298e-44ec-bb17-2bb30c978f0c" />
